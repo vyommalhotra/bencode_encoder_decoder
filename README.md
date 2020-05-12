@@ -1,2 +1,3 @@
-# torrent_client
-A lightweight C# BitTorrent client
+# Bencode Encoder/Decoder
+A lightweight C# Bencode Encoder/Decoder.
+Bencode is a standard encoding used in peer-to-peer file sharing such as torrents.
